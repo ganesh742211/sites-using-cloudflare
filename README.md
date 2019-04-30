@@ -254,6 +254,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [atwiki.jp](http://atwiki.jp)
 - [authorstream.com](http://authorstream.com)
 - [avaaz.org](http://avaaz.org)
+- [wirally.com](http://wirally.com)
 - [avaz.ba](http://avaz.ba)
 - [avazutracking.net](http://avazutracking.net)
 - [avito.ma](http://avito.ma)
